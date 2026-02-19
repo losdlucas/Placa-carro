@@ -2,7 +2,7 @@ import cv2
 import easyocr
 
 # Caminho da imagem
-imagem = "placa.jpg"
+imagem = "2019-10-30-placa-mercosul-nova.jpg"
 
 # Carregar imagem
 img = cv2.imread(imagem)
